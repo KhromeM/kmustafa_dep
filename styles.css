@@ -1,6 +1,11 @@
+@font-face {
+	font-family: Europa;
+	src: url("./resources/Fonts/Europa\ Regular/Europa\ Regular.ttf");
+}
+
 html {
 	max-width: 1000px;
-	font-family: "Crimson Pro", Times, "Times New Roman", serif;
+	font-family: "Europa", "Crimson Pro", Times, "Times New Roman", serif;
 	margin-left: 25px;
 }
 body {
